@@ -1,5 +1,5 @@
 .square{
-    background-color: lightsalmon;
+    background-color: lightslategray;
     border: 1px solid white;
     color: white;
     text-align: center;
@@ -7,8 +7,8 @@
 }
 
 .square-small{
-    background-color: lightgreen;
-    border: 1px solid lightsalmon;
+    background-color: lightsalmon;
+    border: 1px solid lightslategray;
     color: white;
     text-align: center;
     padding: 5px;
