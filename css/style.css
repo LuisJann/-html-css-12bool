@@ -13,3 +13,13 @@
     text-align: center;
     padding: 5px;
 }
+
+.square-black{
+    background-color: black;
+    padding: 10px;
+}
+
+.square-white{
+    background-color: lightgray;
+    padding: 10px;
+}
